@@ -1,0 +1,9 @@
+2025-10-19 17:13:26,493 - INFO - 开始解析情绪检测日志: D:\心理健康对话系统pro\logs\emotion_detections.log
+2025-10-19 17:13:26,498 - INFO - 情绪检测日志解析完成，共处理 1 个会话
+2025-10-19 17:13:26,498 - INFO - 开始解析评估日志: D:\心理健康对话系统pro\logs\assessment_badges.log
+2025-10-19 17:13:26,499 - INFO - 评估日志解析完成
+2025-10-19 17:13:26,499 - INFO - 所有会话分析完成
+2025-10-19 17:13:26,515 - INFO - 数据表格已保存至: D:\心理健康对话系统pro\analysis_reports\20251019_1713\330b46ab-b6e4-4943-944f-57c667c1ffde
+2025-10-19 17:13:27,123 - INFO - 完整情绪趋势图已保存至: D:\心理健康对话系统pro\analysis_reports\20251019_1713\330b46ab-b6e4-4943-944f-57c667c1ffde\emotion_trend_complete.png
+2025-10-19 17:13:27,124 - INFO - 综合评估报告已保存至: D:\心理健康对话系统pro\analysis_reports\20251019_1713\330b46ab-b6e4-4943-944f-57c667c1ffde\evaluation_report.txt
+2025-10-19 17:13:27,124 - INFO - 报告已生成至: D:\心理健康对话系统pro\analysis_reports\20251019_1713

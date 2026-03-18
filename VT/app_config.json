@@ -1,0 +1,19 @@
+{
+    "video_source": 0,
+    "serial_port": "COM3",
+    "baudrate": 115200,
+    "img_size": 640,
+    "conf_thres": 0.25,
+    "iou_thres": 0.45,
+    "device": "cuda:0",
+    "classes": null,
+    "agnostic_nms": false,
+    "augment": false,
+    "max_reconnect_attempts": 5,
+    "target_fps": 1,
+    "frame_size": [
+        640,
+        480
+    ],
+    "serial_enabled": true
+}

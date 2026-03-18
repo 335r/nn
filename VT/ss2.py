@@ -25,6 +25,7 @@ import uvicorn
 from packaging import version
 
 #  streamlit run E:\Git\网页\VT\ss2.py
+#streamlit run E:\Git\网页\VT\11.py
 
 # ---------------------- 版本检查 ----------------------
 ST_REQUIRED = "1.13.0"
