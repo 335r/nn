@@ -1,0 +1,26 @@
+# 1. 查看状态（哪些文件被修改/新增/删除）
+git status
+
+# 2. 添加到暂存区
+git add .                    # 添加所有修改
+git add 文件名               # 只添加指定文件
+git add -p                   # 交互式选择修改的片段（更精细控制）
+
+# 3. 提交到本地仓库
+git commit -m "描述本次更新的内容"
+
+# 4. 推送到远程
+git push origin master       # 推送到远程 master 分支
+git push origin main         # 推送到远程 main 分支
+
+
+| 场景              | 命令                       
+|
+| 查看修改内容     | `git diff`               
+| 查看已暂存的修改 | `git diff --staged`      
+| 撤销工作区的修改 | `git checkout -- 文件名`    
+| 撤销暂存区的文件 | `git reset HEAD 文件名`     
+| 修改最后一次提交 | `git commit --amend`     
+| 拉取远程最新代码 | `git pull origin master` 
+| 查看提交历史     | `git log --oneline`      
+
